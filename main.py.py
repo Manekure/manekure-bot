@@ -77,4 +77,4 @@ async def unmute(ctx, member: discord.Member):
 	await ctx.send("L'utilisateur {member.mention} a bien été unmute.")
 	await member.send(f"Tu est unmute du serveur {server.name}.")
 
-bot.run("NzcwNzQ4NDI2MTgxOTM1MTM1.X5iFaA.FIxW6zHRJSRbA2iB7kbm66Wl_sU")
+bot.run("NzcwNzQ4NDI2MTgxOTM1MTM1.X5iFaA.btdjF2XfPeo6Gnk9rvZ54Vr-r6o")
